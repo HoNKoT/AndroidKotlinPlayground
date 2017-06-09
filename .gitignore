@@ -1,0 +1,10 @@
+.gradle/
+local.properties
+
+# generated files by AndroidStudio
+*.iml
+*.imr
+
+build/
+.DS_Store
+/captures
